@@ -1,8 +1,8 @@
 class Muxrail < Formula
   desc "tmux window sidebar and cross-agent session search"
   homepage "https://github.com/kislow/muxrail"
-  url "https://github.com/kislow/muxrail/archive/refs/tags/v0.6.1.tar.gz"
-  sha256 "fd56bf890a8f80b33fedbc10221449d77c29d831ec8ec077113eb9db8f3c3bb9"
+  url "https://github.com/kislow/muxrail/archive/refs/tags/v0.6.2.tar.gz"
+  sha256 "28c311a9e1032dba32f1c26b4757e2d5a3eb0ca4e37fab6abb91829559979db7"
   license "Apache-2.0"
   head "https://github.com/kislow/muxrail.git", branch: "main"
 
