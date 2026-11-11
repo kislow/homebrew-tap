@@ -1,8 +1,8 @@
 class Kio < Formula
   desc "Scope agent sessions to a repo, its identity and a knowledge base"
   homepage "https://github.com/kislow/kio"
-  url "https://github.com/kislow/kio/archive/refs/tags/v0.1.0.tar.gz"
-  sha256 "65426707feb9863bfa92f738653f7d418babf5d4a642910d3e12daddec647e4b"
+  url "https://github.com/kislow/kio/archive/refs/tags/v0.2.0.tar.gz"
+  sha256 "6f59db1cd6c15acd3e8d908d30b1d9119e126f20aafb589485ae3e16c2546e2d"
   license "Apache-2.0"
   head "https://github.com/kislow/kio.git", branch: "main"
 
